@@ -1,6 +1,6 @@
 # JS Tutorial
 
-##JS HOME
+## JS HOME
 
 * JS Introduction
 * JS Where To
